@@ -1,6 +1,7 @@
 #ArduPilot Project#
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ArduPilot/ardupilot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F4th-law%2Fardupilot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F4th-law%2Fardupilot?ref=badge_shield)
 
 [![Build SemaphoreCI](https://semaphoreci.com/api/v1/projects/4d28a40d-b6a6-4bfb-9780-95d92aabb178/667563/badge.svg)](https://semaphoreci.com/diydrones/ardupilot)
 
@@ -49,6 +50,9 @@
 >>[Overview of license](http://dev.ardupilot.com/wiki/license-gplv3)
 
 >>[Full Text](https://github.com/ArduPilot/ardupilot/blob/master/COPYING.txt)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F4th-law%2Fardupilot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F4th-law%2Fardupilot?ref=badge_large)
 
 ### Maintainers ###
 >> Ardupilot is comprised of several parts, vehicles and boards. The list below
